@@ -2972,6 +2972,10 @@ img {
   display: flex;
 }
 
+.section-header.background-color-primary {
+  margin-top: 40px;
+}
+
 .text-size-tiny {
   font-size: .75rem;
 }
@@ -3133,6 +3137,10 @@ img {
   grid-auto-columns: 1fr;
   margin-bottom: 1rem;
   display: grid;
+}
+
+.section-logo {
+  margin-bottom: 60px;
 }
 
 .benefits-right-item-icon-wrapper {
